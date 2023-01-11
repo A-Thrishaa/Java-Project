@@ -1,4 +1,5 @@
 //abstraction example using abstract class
+package abstract;
 import java.util.*;//importing built-in package
 abstract class Animal//declaring abstract class
 {
